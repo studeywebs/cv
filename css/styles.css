@@ -1,0 +1,71 @@
+
+body {
+  background-color: #e4eddb;
+}
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #00b9b2;
+  border-width: 5px;
+  width: 50%;
+
+}
+
+/***************Class CSS**************/
+.top-section {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.my-name {
+  font-family: 'Indie Flower', cursive;
+  font-size: 48px;
+  color: #307672;
+}
+
+.top-image {
+  width: 40%
+}
+.profile {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.skills {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.skill-row {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.contact-me {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.btn {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+}
